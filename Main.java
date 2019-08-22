@@ -5,6 +5,7 @@ public class Main {
         javax.swing.SwingUtilities.invokeLater(new Runnable() {
             public void run() {
                 new Calcul3();
+				System.out.print("Test");
             }
         });
 
